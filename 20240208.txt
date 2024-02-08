@@ -50,4 +50,4 @@ CCTV17农村农业,http://playmonk.freevar.com/iptv/iptv_bestv_p03.php?id=migu/k
 CHC家庭影院,http://playmonk.freevar.com/iptv/iptv_bestv_p03.php?id=wd_r3/cnr/chcjtyy/3000
 
 TEST,#genre#
-http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
+ABC AUSTRALIA,http://asia.vampirehk.eu.org:13270/stream/channelid/1684192959?auth=PO76qU40fPew2Vh7Pw9w5ftCgzVk&profile=pass
